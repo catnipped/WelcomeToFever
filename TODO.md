@@ -2,8 +2,6 @@
 
 \* = required for first playable draft
 
-
-
 ## Project
 
 - [ ] Add icon support (font awesome)

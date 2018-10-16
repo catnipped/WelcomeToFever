@@ -2,8 +2,6 @@ _You sit comfortably alone in the safety of your home, watching some late night 
 
 ![TV Static](/assets/white_noise_1.jpg)
 
-<i class="fas fa-ghost"></i>
-
 # Welcome to Fever, Colorado
 
 ## What is Fever?
