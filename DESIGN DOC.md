@@ -2,6 +2,8 @@
 
 You sit comfortably alone in the safety of your home, watching some late night drama show that you don’t particularly like. At some point you stopped caring about what’s on, you just need something to fall asleep to. The show ends, replaced by a fuzzy static but you’re too tired to reach the remote. You’re slowly, surely dozing off. The static fills your head and your mind. It’s like you could breath it. You no longer feel yourself inhaling or exhaling. Like a wave crashing the beach and retreating, the static fades to black…
 
+![TV Static](/assets/white_noise_1.jpg)
+
 ## Welcome to Fever, Colorado
 
 ### What is Fever?
@@ -63,21 +65,22 @@ Professional paths
 - Driver
 
 Motives
+
 - Looking for answers
-    - Investigation led here
-    - Asked to investigate
+  - Investigation led here
+  - Asked to investigate
 - Passing Through
-    - Hitch-hiker
-    - Tourist
+  - Hitch-hiker
+  - Tourist
 - Work Seeker
-    - Promised new job
-    - Job moved here
+  - Promised new job
+  - Job moved here
 - Enlightenment
-    - Time to contemplate
-    - Religious Enlightenment
+  - Time to contemplate
+  - Religious Enlightenment
 - Clean Slate
-    - Too Much Baggage
-    - Criminal Past
+  - Too Much Baggage
+  - Criminal Past
 
 ### Town Creation
 
@@ -105,7 +108,7 @@ Other buildings
 - Farmhouse
 - Local newspaper
 - Theatre
-- Bus/Train station
+- Bus / Train station
 - Garage / Fuel Pump
 - Chapel
 - Graveyard
@@ -116,7 +119,6 @@ Other buildings
 
 - Baghead. tries to put a black bag on your head.
 - Pipeghoul. Steel pipe through its skull.
-
 
 5 obstacles
 50 items, traits & statuses
