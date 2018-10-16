@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+// @import "../scss/fontawesome.scss";
+// @import "../scss/solid.scss";
+
 body {
     background: black;
     color:floralwhite;

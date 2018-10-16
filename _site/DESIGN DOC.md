@@ -1,4 +1,4 @@
-# Design Doc
+# Main Design Document
 
 You sit comfortably alone in the safety of your home, watching some late night drama show that you don’t particularly like. At some point you stopped caring about what’s on, you just need something to fall asleep to. The show ends, replaced by a fuzzy static but you’re too tired to reach the remote. You’re slowly, surely dozing off. The static fills your head and your mind. It’s like you could breath it. You no longer feel yourself inhaling or exhaling. Like a wave crashing the beach and retreating, the static fades to black…
 
@@ -9,6 +9,10 @@ You sit comfortably alone in the safety of your home, watching some late night d
 ### What is Fever?
 
 Fever is a game, it is also a place and a state of mind. Fever is played over a series of scenes where a group of strangers encounter the hazy american town of Fever, Colorado. You need at least 2 players: 1 “Game Master” or GM for short, and at least one stranger. The game is played in two layers of reality. The first is called The Real, a somewhat oversaturated, dreamy reality with a focus on human interaction and investigation. Things in The Real doesn’t feel tangible, like everything was a symbol for something else and like every person is a paper thin character in a badly acted tv drama. There can be acts of violence but they are few and far between. The other reality, simply called The Fever, is a hellish nightmare where everything shows its true sinful face. Secrets are openly and blatantly displayed in a way that feel cryptic to us newcomers but obvious to its residents. Angst and Lies manifest into horrible creatures and obstacles. A troublesome thought in the The Real can transform into a maddening labyrinth in The Fever.  This reality is  a prison only escapable by going through it.
+
+> #### What's a GM?
+>
+> A Game Master is a person who...
 
 ### Two layers of reality
 
@@ -48,6 +52,8 @@ A big action is anything that would affect the other characters physically (push
 All characters in the game has Resolve, which is similar to Armor in other games. In the beginning of a violent encounter, each character gets a number points equal to their Resolve called Staked Resolve which is more similar to Health. When attacking a creature, the action you make decides  whether you can spend your Stamina or Psyche and whether your Sin affects the outcome. Then you roll a D20 and has to roll equal or higher than the affected character’s Resolve. If the roll is a success, the character loses some of its Staked Resolve. If a character has 0 Staked Resolve, it will stop being violent.
 
 Characters, both human and creatures, seldom die in Fever, as death is seen as a cheap way to get away with sins. Instead, the GM decides the fate the players should their characters reach 0 Staked Resolve. Usually the outcome is some sort of permanent damage that will haunt them for the rest of the game.
+
+***
 
 ## Scope
 
