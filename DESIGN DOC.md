@@ -1,4 +1,5 @@
 # Design Doc
+
 You sit comfortably alone in the safety of your home, watching some late night drama show that you don’t particularly like. At some point you stopped caring about what’s on, you just need something to fall asleep to. The show ends, replaced by a fuzzy static but you’re too tired to reach the remote. You’re slowly, surely dozing off. The static fills your head and your mind. It’s like you could breath it. You no longer feel yourself inhaling or exhaling. Like a wave crashing the beach and retreating, the static fades to black…
 
 ## Welcome to Fever, Colorado
@@ -25,8 +26,11 @@ Players are dealt cards from the different categories such as profession, traits
 ### Stats
 
 **Psyche** - your ability to discriminate reality from the horrors of Fever. When your psyche is broken, you collapse from straining your mind too hard.
+
 **Stamina** - your ability to handle physical stress like running or fighting but also lack of sleep or food. If your stamina is broken, you pass out from straining your body too hard.
+
 **Resolve** - your ability to overcome obstacles through sheer willpower. If your resolve is broken, you fail to find a purpose to go on and give in to whatever fate Fever has given you.
+
 **Sin** - your ability to commit questionable actions such as lying, theft, or even murder.
 
 ### Inventory
@@ -43,9 +47,9 @@ All characters in the game has Resolve, which is similar to Armor in other games
 
 Characters, both human and creatures, seldom die in Fever, as death is seen as a cheap way to get away with sins. Instead, the GM decides the fate the players should their characters reach 0 Staked Resolve. Usually the outcome is some sort of permanent damage that will haunt them for the rest of the game.
 
-### Scope
+## Scope
 
-#### Character creation
+### Character creation
 
 Professional paths
 
@@ -75,7 +79,8 @@ Motives
     - Too Much Baggage
     - Criminal Past
 
-#### Town Creation
+### Town Creation
+
 Big buildings (several floors, requires investigation)
 
 - Motel / Fancy Hotel
