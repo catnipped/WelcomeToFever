@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+    background: black;
+    color:floralwhite;
+    font-family: 'Courier New', Courier, monospace;
+}
