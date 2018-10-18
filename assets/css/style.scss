@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Spectral:400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black:400,400i,700');
 @import url('../webfontkit/stylesheet.css');
 
 body {
@@ -45,9 +45,10 @@ blockquote {
 
 h1,h2,h3,h4,h5 {
     color: beige;
-    font-family: 'Courier Prime Sans Bold';
+    font-family: 'Archivo Black';
     font-style: normal;
     font-weight: normal;
+    text-transform: uppercase
 }
 
 hr {
