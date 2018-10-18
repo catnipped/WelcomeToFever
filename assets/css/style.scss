@@ -2,11 +2,51 @@
 ---
 
 @import "{{ site.theme }}";
-// @import "../scss/fontawesome.scss";
-// @import "../scss/solid.scss";
+@import url('https://fonts.googleapis.com/css?family=Spectral:400,400i,700');
+@import url('../webfontkit/stylesheet.css');
 
 body {
     background: black;
     color:floralwhite;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier Prime Sans','Courier New', Courier, monospace;
+    font-size: 12pt;
+}
+
+blockquote {
+    background: beige;
+    color:black;
+    font-style: normal;
+    border:none;
+    max-width: 50%;
+    float: right; 
+    
+    padding: 1em;
+    margin: 1em;
+    margin-right: -2em;
+    h1,h2,h3,h4,h5 {
+        color:black;
+        border-bottom: 1pt solid darkgoldenrod;
+    }
+}
+
+h1,h2,h3,h4,h5 {
+    color: beige;
+    font-family: 'Courier Prime Sans Bold';
+    font-style: normal;
+    font-weight: normal;
+}
+
+hr {
+    background: darkgoldenrod;
+}
+
+strong {
+    font-family: 'Courier Prime Sans Bold';
+    font-weight: normal;
+    color: darkgoldenrod;
+}
+
+em {
+    font-family: 'Courier Prime Sans Italic';
+    font-style: normal;
 }

@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Spectral:400,400i,700");
+@import url("../webfontkit/stylesheet.css");
 @font-face { font-family: 'Noto Sans'; font-weight: 400; font-style: normal; src: url("../fonts/Noto-Sans-regular/Noto-Sans-regular.eot"); src: url("../fonts/Noto-Sans-regular/Noto-Sans-regular.eot?#iefix") format("embedded-opentype"), local("Noto Sans"), local("Noto-Sans-regular"), url("../fonts/Noto-Sans-regular/Noto-Sans-regular.woff2") format("woff2"), url("../fonts/Noto-Sans-regular/Noto-Sans-regular.woff") format("woff"), url("../fonts/Noto-Sans-regular/Noto-Sans-regular.ttf") format("truetype"), url("../fonts/Noto-Sans-regular/Noto-Sans-regular.svg#NotoSans") format("svg"); }
 @font-face { font-family: 'Noto Sans'; font-weight: 700; font-style: normal; src: url("../fonts/Noto-Sans-700/Noto-Sans-700.eot"); src: url("../fonts/Noto-Sans-700/Noto-Sans-700.eot?#iefix") format("embedded-opentype"), local("Noto Sans Bold"), local("Noto-Sans-700"), url("../fonts/Noto-Sans-700/Noto-Sans-700.woff2") format("woff2"), url("../fonts/Noto-Sans-700/Noto-Sans-700.woff") format("woff"), url("../fonts/Noto-Sans-700/Noto-Sans-700.ttf") format("truetype"), url("../fonts/Noto-Sans-700/Noto-Sans-700.svg#NotoSans") format("svg"); }
 @font-face { font-family: 'Noto Sans'; font-weight: 400; font-style: italic; src: url("../fonts/Noto-Sans-italic/Noto-Sans-italic.eot"); src: url("../fonts/Noto-Sans-italic/Noto-Sans-italic.eot?#iefix") format("embedded-opentype"), local("Noto Sans Italic"), local("Noto-Sans-italic"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.woff2") format("woff2"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.woff") format("woff"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.ttf") format("truetype"), url("../fonts/Noto-Sans-italic/Noto-Sans-italic.svg#NotoSans") format("svg"); }
@@ -212,4 +214,15 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
   header ul { width: 99%; }
   header li, header ul li + li + li { width: 33%; } }
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
-body { background: black; color: floralwhite; font-family: 'Courier New', Courier, monospace; }
+body { background: black; color: floralwhite; font-family: 'Courier Prime Sans','Courier New', Courier, monospace; font-size: 12pt; }
+
+blockquote { background: beige; color: black; font-style: normal; border: none; max-width: 50%; float: right; padding: 1em; margin: 1em; margin-right: -2em; }
+blockquote h1, blockquote h2, blockquote h3, blockquote h4, blockquote h5 { color: black; border-bottom: 1pt solid darkgoldenrod; }
+
+h1, h2, h3, h4, h5 { color: beige; font-family: 'Courier Prime Sans Bold'; font-style: normal; font-weight: normal; }
+
+hr { background: darkgoldenrod; }
+
+strong { font-family: 'Courier Prime Sans Bold'; font-weight: normal; color: darkgoldenrod; }
+
+em { font-family: 'Courier Prime Sans Italic'; font-style: normal; }

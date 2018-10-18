@@ -1,7 +1,7 @@
 # TO-DO
 
 \* = required for first playable draft
-<i class="fas fa-ghost"></i>
+
 ## Project
 
 - [ ] Add icon support (font awesome)
@@ -17,7 +17,7 @@
 
 ## GM Rules
 
-- [ ] Outline document*
+- [x] Outline document*
 - [ ] Design monsters*
 - [ ] Design other obstacles*
 - [ ] Design Town creation*
@@ -26,7 +26,7 @@
 
 ## Player Rules
 
-- [ ] Outline document*
+- [x] Outline document*
 - [ ] Design character creation*
 - [ ] Expand player rules*
 - [ ] Design Character Sheet*
