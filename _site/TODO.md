@@ -4,7 +4,7 @@
 
 ## Project
 
-- [ ] Add icon support (font awesome)
+- [x] Add icon support (font awesome)
 - [ ] style jekyll theme
 - [ ] .pdf export w/ images
 - [ ] fillable forms

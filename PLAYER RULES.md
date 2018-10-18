@@ -3,11 +3,11 @@
 - [The Stranger's Handbook](#the-strangers-handbook)
   - [The Session — What you need to know before you play](#the-session--what-you-need-to-know-before-you-play)
     - [The World of Fever](#the-world-of-fever)
+    - [Materials](#materials)
     - [How to roleplay](#how-to-roleplay)
-    - [Materials'](#materials)
-      - [Your Character Sheet](#your-character-sheet)
+    - [Understanding Your Character Sheet](#understanding-your-character-sheet)
     - [Skill Checks](#skill-checks)
-  - [Making of a Stranger – Character Creation](#making-of-a-stranger--character-creation)
+  - [Making of a Stranger — Character Creation](#making-of-a-stranger--character-creation)
     - [Choose a professional path](#choose-a-professional-path)
     - [Choose a motive](#choose-a-motive)
     - [Choose traits](#choose-traits)
@@ -18,9 +18,7 @@
 
 ### The World of Fever
 
-### How to roleplay
-
-### Materials'
+### Materials
 
 All you really need to play is the following:
 
@@ -30,13 +28,15 @@ All you really need to play is the following:
 - 1 20-sided die per player
 - Some tokens or counters
 
-#### Your Character Sheet
+### How to roleplay
+
+### Understanding Your Character Sheet
 
 ### Skill Checks
 
 ***
 
-## Making of a Stranger – Character Creation
+## Making of a Stranger — Character Creation
 
 ### Choose a professional path
 

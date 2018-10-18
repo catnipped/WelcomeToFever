@@ -2,7 +2,7 @@
 
 - [Game Master's Handbook](#game-masters-handbook)
   - [The World in Fever](#the-world-in-fever)
-    - [The Town](#the-town)
+    - [Welcome To Fever, CO — Town Creation](#welcome-to-fever-co--town-creation)
     - [The Two Realities](#the-two-realities)
   - [The Session](#the-session)
     - [Planning Your Session](#planning-your-session)
@@ -12,16 +12,16 @@
     - [Town Creation](#town-creation)
       - [Places](#places)
       - [People](#people)
-    - [The Book of Monsters](#the-book-of-monsters)
-    - [The Book of Obstacles](#the-book-of-obstacles)
+  - [The Book of Monsters](#the-book-of-monsters)
+  - [The Book of Obstacles](#the-book-of-obstacles)
 
 ***
 
 ## The World in Fever
 
-### The Town
+### Welcome To Fever, CO — Town Creation
 
-### The Two Realities
+### The Two Realities 
 
 ***
 
@@ -41,6 +41,10 @@
 
 #### People
 
-### The Book of Monsters
+***
 
-### The Book of Obstacles
+## The Book of Monsters
+
+***
+
+## The Book of Obstacles
