@@ -11,6 +11,20 @@ body {
     font-family: 'Courier Prime Sans','Courier New', Courier, monospace;
     font-size: 12pt;
 }
+section {
+    a {
+        border-bottom: 0.5pt solid lightcoral;
+    }
+}
+a {
+    color: lightcoral;
+    
+}
+
+a:hover {
+    font-weight: normal;
+    color:red;
+}
 
 blockquote {
     background: beige;
@@ -49,4 +63,5 @@ strong {
 em {
     font-family: 'Courier Prime Sans Italic';
     font-style: normal;
+    color: aliceblue
 }

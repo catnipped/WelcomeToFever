@@ -15,6 +15,13 @@
 - [x] Outline read me
 - [ ] Meat n potatoes
 
+## Player Rules
+
+- [x] Outline document*
+- [ ] Design character creation*
+- [ ] Expand player rules*
+- [ ] Design Character Sheet*
+
 ## GM Rules
 
 - [x] Outline document*
@@ -23,10 +30,3 @@
 - [ ] Design Town creation*
 - [ ] Design Scenario creation*
 - [ ] Design GM Sheet
-
-## Player Rules
-
-- [x] Outline document*
-- [ ] Design character creation*
-- [ ] Expand player rules*
-- [ ] Design Character Sheet*
