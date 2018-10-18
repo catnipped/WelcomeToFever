@@ -18,12 +18,14 @@ section {
 }
 a {
     color: lightcoral;
-    
+    font-family: 'Courier Prime Sans Bold';
 }
 
 a:hover {
     font-weight: normal;
     color:red;
+    background: url(../img/static.gif);
+    background-position: bottom;
 }
 
 blockquote {
@@ -64,5 +66,6 @@ strong {
 em {
     font-family: 'Courier Prime Sans Italic';
     font-style: normal;
-    color: aliceblue
+    color: aliceblue;
+    text-shadow: -0.5pt 1pt 3pt cyan, 0.5pt 2pt 4pt blue;
 }

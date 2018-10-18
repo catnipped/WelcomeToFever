@@ -1,6 +1,6 @@
 _You sit comfortably alone in the safety of your home, watching some late night drama show that you don’t particularly like. At some point you stopped caring about what’s on, you just need something to fall asleep to. The show ends, replaced by a fuzzy static but you’re too tired to reach the remote. You’re slowly, surely dozing off. The static fills your head and your mind. It’s like you could breath it. You no longer feel yourself inhaling or exhaling. Like a wave crashing the beach and retreating, the static fades to black…_
 
-![TV Static](/assets/white_noise_1.jpg)
+![TV Static](/assets/img/TV_static.jpg)
 
 # Welcome to Fever, Colorado
 
