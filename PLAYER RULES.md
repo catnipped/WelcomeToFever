@@ -31,38 +31,44 @@ Fever is a game, it is also a place and a state of mind. Fever is played over a 
 
 ### Materials
 
-All you really need to play is the following:
+All you need to play is the following:
 
 - This book
 - Some friends
 - 1 character sheet or GM-sheet per player
 - 1 pencil per player
-- 1 20-sided die (d20) per player
+- 1 20-sided die (**<i class="fas fa-dice-d20"></i> d20**) per player
 - Some tokens or counters
 
 ### How to roleplay
 
 ### Understanding Your Character Sheet
 
+Your character sheet contains all the numbers n things you need to play the game. At the top you have your **Stats**. Stats are numbers that tell you how well your character can do things in the game. Then you have your **Traits**. Traits can be abilities such as lockpicking, or some other attribute like having bad manners. When creating a character, the Traits you choose will affect your Stats. Lastly you have your **Inventory**, where you can see the things the character has on them.
+
 #### Stats
 
-**Psyche** - your ability to discriminate reality from the horrors of Fever. When your psyche is broken, you collapse from straining your mind too hard.
+There are four main Stats in the game:
 
-**Stamina** - your ability to handle physical stress like running or fighting but also lack of sleep or food. If your stamina is broken, you pass out from straining your body too hard.
+**<i class="fas fa-mask"></i> Psyche** - your ability to discriminate reality from the horrors of Fever. When your psyche is broken, you collapse from straining your mind too hard.
 
-**Resolve** - your ability to overcome obstacles through sheer willpower. If your resolve is broken, you fail to find a purpose to go on and give in to whatever fate Fever has given you.
+**<i class="fas fa-bolt"></i> Stamina** - your ability to handle physical stress like running or fighting but also lack of sleep or food. If your stamina is broken, you pass out from straining your body too hard.
 
-**Sin** - your ability to commit questionable actions such as lying, theft, or even murder.
+**<i class="fas fa-fist-raised"></i> Resolve** - your ability to overcome obstacles through sheer willpower. If your resolve is broken, you fail to find a purpose to go on and give in to whatever fate Fever has given you.
+
+**<i class="fas fa-balance-scale"></i> Sin** - your ability to commit questionable actions such as lying, theft, or even murder.
+
+#### Traits
 
 #### Inventory
 
 A stranger can carry any amount of small items like pencils, keys, and such.
 They can also carry one big item like a pistol or an axe. If they have a bag they can carry 5 big items, but they can only use one at a time.
 
-### Skill Checks
+### Skill Tests
 
-The GM decides when there will be a skill check and decides on a number that represents chance of success. The players then roll a D20 to match or beat that number.
-Stats give you points in the beginning of the session. Spend points before rolling the D20 to increase chance of success and consequences of both failure and success.
+The GM decides when there will be a skill test and decides on a number that represents chance of success. The players then roll a d20 to match or beat that number.
+Stats give you points in the beginning of the session. Spend points before rolling the d20 to increase chance of success and consequences of both failure and success.
 The GM can award new points during the session (and take them away) from activities such as resting or having a drink.
 
 ### Violence
