@@ -19,7 +19,7 @@
 
 ## The World in Fever
 
-### Welcome To Fever, CO — Town Creation
+### Welcome To Fever, CO â€” Town Creation
 
 ### The Two Realities 
 

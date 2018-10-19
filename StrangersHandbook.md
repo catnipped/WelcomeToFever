@@ -1,7 +1,7 @@
 # The Stranger's Handbook
 
 - [The Stranger's Handbook](#the-strangers-handbook)
-  - [The Session - What you need to know before you play](#the-session---what-you-need-to-know-before-you-play)
+  - [The Session — What you need to know before you play](#the-session---what-you-need-to-know-before-you-play)
     - [The World of Fever](#the-world-of-fever)
     - [Materials](#materials)
     - [How to roleplay](#how-to-roleplay)
@@ -10,7 +10,7 @@
       - [Inventory](#inventory)
     - [Skill Checks](#skill-checks)
     - [Violence](#violence)
-  - [Making of a Stranger - Character Creation](#making-of-a-stranger---character-creation)
+  - [Making of a Stranger — Character Creation](#making-of-a-stranger---character-creation)
     - [Choose a professional path](#choose-a-professional-path)
     - [Choose a motive](#choose-a-motive)
     - [Choose traits](#choose-traits)
