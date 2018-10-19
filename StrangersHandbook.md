@@ -23,7 +23,7 @@
 >
 > The Game Master, or "GM" for short, is a player who does not play a character, but instead has  control over everything else in the game. The GM sets up the scenes, controls all the monsters and NPCs (non player characters), and knows all the secrets that the session contains.
 
-We're so happy you're here. Before you start playing, you should read through this book. If you're the Game Master, you should also read the [Game Master's Handbook](/GameMastersHandbook). Otherwise you should make a stranger.
+We're so happy you're here. Before you start playing, you should read through this book. If you're the Game Master, you should also read the [Game Master's Handbook](GameMastersHandbook). Otherwise you should make a stranger.
 
 ### The World of Fever
 
