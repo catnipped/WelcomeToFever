@@ -19,7 +19,7 @@
 
 ## The World in Fever
 
-### Welcome To Fever, CO â€” Town Creation
+### Welcome To Fever, CO — Town Creation
 
 ### The Two Realities 
 
@@ -44,6 +44,12 @@
 ***
 
 ## The Book of Monsters
+
+| Name      | Description                                                   | Fever Cost                     |
+| --------- | ------------------------------------------------------------- | ------------------------------ |
+| Baghead   | Tries to put a black bag on your head.                        | <i class="fas fa-burn"></i> 10 |
+| Pipeghoul | <i class="far fa-heart"></i> 10 Steel pipe through its skull. | <i class="fas fa-burn"></i> 4  |
+
 
 ***
 
