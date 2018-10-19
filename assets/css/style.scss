@@ -11,9 +11,10 @@ body {
     font-family: 'Courier Prime Sans','Courier New', Courier, monospace;
     font-size: 12pt;
 }
+
 section {
     a {
-        border-bottom: 0.5pt solid lightcoral;
+        border-bottom: 1pt solid lightcoral;
     }
 }
 a {
@@ -25,7 +26,10 @@ a:hover {
     font-weight: normal;
     color:red;
     background: url(../img/static.gif);
-    background-position: bottom;
+    background-position: center;
+    background-size: 800px;
+    text-shadow: 1pt 1pt 0 black, -1pt -1pt 0 black;
+    border: none;
 }
 
 blockquote {
