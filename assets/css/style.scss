@@ -6,7 +6,7 @@
 @import url('../webfontkit/stylesheet.css');
 
 body {
-    background: url(/assets/img/background.png) rgb(3, 10, 19);
+    background: url(/assets/img/background.png) rgb(7, 10, 14);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -28,8 +28,8 @@ a {
 
 a:hover {
     font-weight: normal;
-    color:lightcoral;
-    border-color: lightcoral;
+    color:red;
+    border-color: red;
 }
 
 blockquote {
@@ -88,6 +88,7 @@ em {
 
 table {
     color: aliceblue;
+    background: black;
 }
 
 thead th {
