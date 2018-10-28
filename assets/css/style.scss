@@ -15,6 +15,12 @@ body {
     font-size: 12pt;
 }
 
+li img {
+    float: right;
+    clear: both;
+    margin: 5pt;
+    max-width: 40%;
+}
 
 section {
     a {
@@ -70,7 +76,9 @@ h1,h2,h3,h4,h5 {
 }
 
 hr {
-    background: darkgoldenrod;
+    background: url(/assets/img/background.png) darkgoldenrod;
+    background-position: center;
+    background-attachment: local;
 }
 
 strong {

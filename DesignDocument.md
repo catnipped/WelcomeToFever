@@ -30,14 +30,14 @@ Fever is a roleplaying game with a focus on the following themes:
   - nightmares
 - Drama
   - television-style
-  - broken people encountering each other
+  - broken people encountering eachother
   - overcoming personal battles
   - no happy endings
   - dreams
 
 ### A session of Fever
 
-Each session of *Fever* should feel like a standalone episode of an ongoing TV-show. One episode can be broken down into several sessions (especcially if time is precious). You can also continue playing the same characters from one session to another, but players (both GM and "strangers") are encouraged to keep their storylines short and sweet rather than lenghty epics. To further the analogy of Fever as a TV-show, it's more like "[Monster of the Week](https://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterOfTheWeek)" show of the 90s than the mini-series style shows of today.
+Each session of *Fever* should feel like a standalone episode of an ongoing TV-show. One episode can be broken down into several sessions (especcially if time is precious). You can also continue playing the same characters from one session to another, but players (both GM and "strangers") are encouraged to keep their storylines short and sweet rather than lenghty epics. To further the analogy of Fever as a TV-show, it's more like ["Monster of the Week"](https://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterOfTheWeek) show of the 90s than the mini-series style shows of today.
 
 ### The player
 
