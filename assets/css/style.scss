@@ -6,36 +6,36 @@
 @import url('../webfontkit/stylesheet.css');
 
 body {
-    background: black;
+    background: url(/assets/img/background.png) rgb(3, 10, 19);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
     color:floralwhite;
     font-family: 'Courier Prime Sans','Courier New', Courier, monospace;
     font-size: 12pt;
 }
 
+
 section {
     a {
-        border-bottom: 1pt solid lightcoral;
+        border-bottom: 1pt solid rgb(62, 135, 245);
     }
 }
 a {
-    color: lightcoral;
+    color: rgb(62, 135, 245);
     font-family: 'Courier Prime Sans Bold';
 }
 
 a:hover {
     font-weight: normal;
-    color:red;
-    background: url(../img/static.gif);
-    background-position: center;
-    background-size: 800px;
-    text-shadow: 1pt 1pt 0 black, -1pt -1pt 0 black;
-    border: none;
+    color:lightcoral;
+    border-color: lightcoral;
 }
 
 blockquote {
     // background: beige;
     // color:black;
-    background: none;
+    background: black;
     color:darkgoldenrod;
     font-style: normal;
     border: 1pt solid darkgoldenrod;
