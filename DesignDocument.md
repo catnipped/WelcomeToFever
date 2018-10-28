@@ -1,10 +1,71 @@
-# Main Design Document
+# Fever Design Document
 
-You sit comfortably alone in the safety of your home, watching some late night drama show that you don’t particularly like. At some point you stopped caring about what’s on, you just need something to fall asleep to. The show ends, replaced by a fuzzy static but you’re too tired to reach the remote. You’re slowly, surely dozing off. The static fills your head and your mind. It’s like you could breath it. You no longer feel yourself inhaling or exhaling. Like a wave crashing the beach and retreating, the static fades to black…
+- [Fever Design Document](#fever-design-document)
+  - [Overarching Design Principles](#overarching-design-principles)
+    - [Themes](#themes)
+    - [A session of Fever](#a-session-of-fever)
+    - [The player](#the-player)
+    - [Scope of the game](#scope-of-the-game)
+  - [Designing Content](#designing-content)
+    - [Tropes and Roleplaying](#tropes-and-roleplaying)
+    - [Inspiration & Resources](#inspiration--resources)
+  - [The Project Structure](#the-project-structure)
+    - [Tools, code & such](#tools-code--such)
+    - [What is Fever?](#what-is-fever)
+    - [Two layers of reality](#two-layers-of-reality)
+    - [Skill checks](#skill-checks)
+    - [Making a stranger](#making-a-stranger)
+    - [Stats](#stats)
+    - [Inventory](#inventory)
+    - [Violence](#violence)
+  - [Scope](#scope)
+    - [Character creation](#character-creation)
+    - [Town Creation](#town-creation)
 
-![TV Static](/assets/white_noise_1.jpg)
+***
 
-## Welcome to Fever, Colorado
+## Overarching Design Principles
+
+Each design decision made while creating Fever should be taken so that they fit the description of the game below.
+
+### Themes
+
+Fever is a roleplaying game with a focus on the following themes:
+
+- Horror
+  - the occult
+  - body horror
+  - paranormal fiction (ghosts, ufos, disappearings etc)
+  - real crime
+  - nightmares
+- Drama
+  - television-style
+  - broken people encountering each other
+  - overcoming personal battles
+  - no happy endings
+  - dreams
+
+### A session of Fever
+
+Each session of *Fever* should feel like a standalone episode of an ongoing TV-show. One episode can be broken down into several sessions (especcially if time is precious). You can also continue playing the same characters from one session to another, but players (both GM and "strangers") are encouraged to keep their storylines short and sweet rather than lenghty epics. To further the analogy of Fever as a TV-show, it's more like "[Monster of the Week](https://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterOfTheWeek)" show of the 90s than the mini-series style shows of today.
+
+### The player
+
+### Scope of the game
+
+In *Twin Peaks* we rarely see or even have characters reference the world outside the town, to the point where it's even suggested that "Diane" whom the main characters records audio tapes for isn't even real, and that the whole place might be taking place inside another characters' dreams. Similarly, *Fever* is, in scope, as big as exactly whatever the characters encounter in the town, and the surrounding world is not explored nor interesting unless it's explicitedly manifested in the town itself. If a player tries to leave Fever or gain access to the outside world (the internet and telephones exist), they should find that they simply can't, like invisible walls in a video game.
+
+## Designing Content
+
+### Tropes and Roleplaying
+
+### Inspiration & Resources
+
+[Photographs of Small Colorado Towns](http://www.city-data.com/city/Colorado3.html)
+
+## The Project Structure
+
+### Tools, code & such
 
 ### What is Fever?
 
@@ -48,82 +109,3 @@ A big action is anything that would affect the other characters physically (push
 All characters in the game has Resolve, which is similar to Armor in other games. In the beginning of a violent encounter, each character gets a number points equal to their Resolve called Staked Resolve which is more similar to Health. When attacking a creature, the action you make decides  whether you can spend your Stamina or Psyche and whether your Sin affects the outcome. Then you roll a D20 and has to roll equal or higher than the affected character’s Resolve. If the roll is a success, the character loses some of its Staked Resolve. If a character has 0 Staked Resolve, it will stop being violent.
 
 Characters, both human and creatures, seldom die in Fever, as death is seen as a cheap way to get away with sins. Instead, the GM decides the fate the players should their characters reach 0 Staked Resolve. Usually the outcome is some sort of permanent damage that will haunt them for the rest of the game.
-
-***
-
-## Scope
-
-### Character creation
-
-Professional paths
-
-- Sheriff
-- Reporter
-- Playwright
-- Psychic
-- Drop-out
-- Nurse
-- Private Eye
-- Driver
-
-Motives
-
-- Looking for answers
-  - Investigation led here
-  - Asked to investigate
-- Passing Through
-  - Hitch-hiker
-  - Tourist
-- Work Seeker
-  - Promised new job
-  - Job moved here
-- Enlightenment
-  - Time to contemplate
-  - Religious Enlightenment
-- Clean Slate
-  - Too Much Baggage
-  - Criminal Past
-
-### Town Creation
-
-Big buildings (several floors, requires investigation)
-
-- Motel / Fancy Hotel
-- Jail
-- Factory
-- Home for the elderly/mentally ill
-- Apartment Complex / Fancy Mansion
-
-Other buildings
-
-- Bar
-- Diner
-- Small Clinic
-- Bank
-- Law Enforcement Office
-- Barber Shop
-- Town Hall
-- Library
-- Liquor Store
-- Fishing/Hunting Hut
-- Museum
-- Farmhouse
-- Local newspaper
-- Theatre
-- Bus / Train station
-- Garage / Fuel Pump
-- Chapel
-- Graveyard
-
-1-2 npcs per building
-
-15 monsters w/ variations
-
-- Baghead. tries to put a black bag on your head.
-- Pipeghoul. Steel pipe through its skull.
-
-5 obstacles
-50 items, traits & statuses
-
-_Photos_
-http://www.city-data.com/city/Colorado3.html

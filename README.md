@@ -6,10 +6,12 @@ _You sit comfortably alone in the safety of your home, watching some late night 
 
 ## What is Fever?
 
-Fever is a game, it is also a place and a state of mind. Fever is played over a series of scenes where a group of strangers encounter the hazy american town of Fever, Colorado. You need at least 2 players: 1 “Game Master” or GM for short, and at least one stranger. The game is played in two layers of reality. The first is called The Real, a somewhat oversaturated, dreamy reality with a focus on human interaction and investigation. Things in The Real doesn’t feel tangible, like everything was a symbol for something else and like every person is a paper thin character in a badly acted tv drama. There can be acts of violence but they are few and far between. The other reality, simply called The Fever, is a hellish nightmare where everything shows its true sinful face. Secrets are openly and blatantly displayed in a way that feel cryptic to us newcomers but obvious to its residents. Angst and Lies manifest into horrible creatures and obstacles. A troublesome thought in the The Real can transform into a maddening labyrinth in The Fever. This reality is a prison only escapable by going through it.
+Fever is a game, it is also a place and a state of mind. Fever is played over a series of scenes where a group of strangers encounter the hazy american town of Fever, Colorado. You need at least 2 players: 1 “Game Master” or GM for short, and at least one stranger. The game is played in two layers of reality. The first is called The Real, a somewhat oversaturated, dreamy reality with a focus on human interaction and investigation. Things in The Real doesn’t feel tangible, like everything was a symbol for something else and like every person is a paper thin character in a badly acted tv drama. There can be acts of violence but they are few and far between. The other reality, simply called The Fever, is a hellish nightmare where everything shows its true sinful face. Secrets are openly and blatantly displayed in a way that feel cryptic to us newcomers but obvious to its residents. Angst and Lies manifest into horrible creatures and obstacles. A troublesome thought in The Real can transform into a maddening labyrinth in The Fever. This reality is a prison only escapable by going through it.
 
-## What do I need?
+## "What do I need?"
 
-## How do I play?
+## "How do I play?"
 
 ## Road-map
+
+See [Design Document](DesignDocument.md)

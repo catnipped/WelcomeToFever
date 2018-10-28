@@ -21,7 +21,7 @@
 
 ### Welcome To Fever, CO — Town Creation
 
-### The Two Realities 
+### The Two Realities
 
 ***
 
@@ -38,6 +38,35 @@
 ### Town Creation
 
 #### Places
+
+Big buildings (several floors, requires investigation)
+
+- Motel / Fancy Hotel
+- Jail
+- Factory
+- Home for the elderly/mentally ill
+- Apartment Complex / Fancy Mansion
+
+Other buildings
+
+- Bar
+- Diner
+- Small Clinic
+- Bank
+- Law Enforcement Office
+- Barber Shop
+- Town Hall
+- Library
+- Liquor Store
+- Fishing/Hunting Hut
+- Museum
+- Farmhouse
+- Local newspaper
+- Theatre
+- Bus / Train station
+- Garage / Fuel Pump
+- Chapel
+- Graveyard
 
 #### People
 
