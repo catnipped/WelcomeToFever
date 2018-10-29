@@ -18,9 +18,13 @@
 
 Each design decision made while creating Fever should be taken so that they fit the description of the game below.
 
-### Themes
+### A session of Fever
 
-Fever is a roleplaying game with a focus on the following themes:
+Each session of *Fever* should feel like a standalone episode of an ongoing TV-show. One episode can be broken down into several sessions (especcially if time is precious). You can also continue playing the same characters from one session to another, but players (both GM and "strangers") are encouraged to keep their storylines short and sweet rather than lenghty epics. To further the analogy of Fever as a TV-show, it's more like ["Monster of the Week"](https://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterOfTheWeek) show of the 90s than the mini-series style shows of today.
+
+### The player
+
+### Themes
 
 - Horror
   - the occult
@@ -35,11 +39,6 @@ Fever is a roleplaying game with a focus on the following themes:
   - no happy endings
   - dreams
 
-### A session of Fever
-
-Each session of *Fever* should feel like a standalone episode of an ongoing TV-show. One episode can be broken down into several sessions (especcially if time is precious). You can also continue playing the same characters from one session to another, but players (both GM and "strangers") are encouraged to keep their storylines short and sweet rather than lenghty epics. To further the analogy of Fever as a TV-show, it's more like ["Monster of the Week"](https://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterOfTheWeek) show of the 90s than the mini-series style shows of today.
-
-### The player
 
 ### Scope of the game
 
