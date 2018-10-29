@@ -76,9 +76,8 @@ h1,h2,h3,h4,h5 {
 }
 
 hr {
-    background: url(/assets/img/background.png) darkgoldenrod;
-    background-position: center;
-    background-attachment: local;
+    background:darkgoldenrod;
+
 }
 
 strong {
@@ -95,20 +94,33 @@ em {
 }
 
 table {
-    color: aliceblue;
-    background: black;
+    background: transparent;
+    color: darkgoldenrod;
+    border-left: 1pt solid darkgoldenrod;
+    border-right: 1pt solid darkgoldenrod;
 }
 
 thead th {
-    color:aliceblue;
-    font-family: 'Courier Prime Sans Bold';
+    color:black;
+    background: darkgoldenrod;
+    border-color: darkgoldenrod;
+    font-family: 'Archivo Black';
     font-style: normal;
     font-weight: normal;
 }
+
+td {
+    border-color: darkgoldenrod;
+}
+
+td a {
+    color: inherit;
+    border-color: darkgoldenrod;
+}
 tbody {
-    border:none;
+    border-color: darkgoldenrod;
 }
 tbody tr:nth-child(odd) {
-    // background: #1b1b1b;
-    color:beige
+    background: black;
+    
 }

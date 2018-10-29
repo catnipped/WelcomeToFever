@@ -91,16 +91,16 @@ Players are dealt cards from the different categories such as profession, traits
 
 When creating your stranger, there are 8 professional paths to choose from. Each provides a few Traits and Stats for your character, as well as being part of your characters background.
 
-| Path                             | Keywords | Stats                                                                                                                                                                    | Traits             |
-| -------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [Sheriff](Appendix.html#sheriff) |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | [11]Gun, [23]Bossy |
-| Reporter                         |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | [11]Gun, [23]Bossy |
-| Playwright                       |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | [11]Gun, [23]Bossy |
-| Psychic                          |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | [11]Gun, [23]Bossy |
-| Drop-out                         |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | [11]Gun, [23]Bossy |
-| Nurse                            |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | [11]Gun, [23]Bossy |
-| Private Eye                      |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | [11]Gun, [23]Bossy |
-| Trucker                          |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | [11]Gun, [23]Bossy |
+| Path                             | Keywords | Stats                                                                                                                                                                    | Traits     |
+| -------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| [Sheriff](Appendix.html#sheriff) |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Bossy |
+| Reporter                         |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Bossy |
+| Playwright                       |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Bossy |
+| Psychic                          |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Bossy |
+| Drop-out                         |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Bossy |
+| Nurse                            |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Bossy |
+| Private Eye                      |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Bossy |
+| Trucker                          |          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Bossy |
 
 ### Choose a motive
 

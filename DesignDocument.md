@@ -2,14 +2,16 @@
 
 - [Fever Design Document](#fever-design-document)
   - [Overarching Design Principles](#overarching-design-principles)
-    - [Themes](#themes)
     - [A session of Fever](#a-session-of-fever)
     - [The player](#the-player)
+    - [Themes](#themes)
+    - [Mechanics](#mechanics)
     - [Scope of the game](#scope-of-the-game)
   - [Designing Content](#designing-content)
-    - [Tropes and Roleplaying](#tropes-and-roleplaying)
+    - [Tropes & Roleplaying](#tropes--roleplaying)
     - [Inspiration & Resources](#inspiration--resources)
   - [The Project Structure](#the-project-structure)
+    - [Cards](#cards)
     - [Tools, code & such](#tools-code--such)
 
 ***
@@ -39,6 +41,13 @@ Each session of *Fever* should feel like a standalone episode of an ongoing TV-s
   - no happy endings
   - dreams
 
+### Mechanics
+
+All game mechanics in Fever should be short and flexible. Never add a mechanic that will solve just one problem, but at least two problems. They should be easy to grasp and teach. Each mechanic should to echo the theme of the game in some way. There are three types of mechanics in Fever:
+
+- Push-your-luck
+- Survival
+- Mystery-solving
 
 ### Scope of the game
 
@@ -72,5 +81,9 @@ Below are some popular works whos style *Fever* borrows from. Look to these work
 ***
 
 ## The Project Structure
+
+### Cards
+
+Cards
 
 ### Tools, code & such
