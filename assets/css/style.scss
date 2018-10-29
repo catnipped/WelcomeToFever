@@ -124,3 +124,14 @@ tbody tr:nth-child(odd) {
     background: black;
     
 }
+
+.single-card {
+    background: black;
+    padding: 5pt;
+    border: 1pt solid rgb(62, 135, 245);
+    border-radius: 5pt;
+    color: rgb(62, 135, 245);
+    h1,h2,h3,h4 {
+        color: inherit;
+    }
+}

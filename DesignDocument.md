@@ -6,6 +6,9 @@
     - [The player](#the-player)
     - [Themes](#themes)
     - [Mechanics](#mechanics)
+      - [Survival Horror](#survival-horror)
+      - [Push-your-luck](#push-your-luck)
+      - [Mystery-solving](#mystery-solving)
     - [Scope of the game](#scope-of-the-game)
   - [Designing Content](#designing-content)
     - [Tropes & Roleplaying](#tropes--roleplaying)
@@ -43,11 +46,15 @@ Each session of *Fever* should feel like a standalone episode of an ongoing TV-s
 
 ### Mechanics
 
-All game mechanics in Fever should be short and flexible. Never add a mechanic that will solve just one problem, but at least two problems. They should be easy to grasp and teach. Each mechanic should to echo the theme of the game in some way. There are three types of mechanics in Fever:
+All game mechanics in *Fever* should be short and flexible. Never add a mechanic that will solve just one problem, but at least two problems. They should be easy to grasp and teach. Each mechanic should echo the theme of the game in some way. There are three groups of mechanics in *Fever*:
 
-- Push-your-luck
-- Survival
-- Mystery-solving
+#### Survival Horror
+
+In TRPGs players are usually able to level up their character, gain new skills and buy new equipment. However, since *Fever* is a horror game, players shouldn't feel like their characters are getting stronger. The Survival Horror genre tends to lean into a lot of resource management mechanics, and Fever does have some of that, but what's important is a slow-burn sense of impending doom.
+
+#### Push-your-luck
+
+#### Mystery-solving
 
 ### Scope of the game
 
