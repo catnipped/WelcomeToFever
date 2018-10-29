@@ -13,6 +13,9 @@ body {
     color:floralwhite;
     font-family: 'Courier Prime Sans','Courier New', Courier, monospace;
     font-size: 12pt;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;  
 }
 
 li img {
@@ -125,6 +128,21 @@ tbody tr:nth-child(odd) {
     
 }
 
+#myInput {
+    background: black;
+    max-width: 100%;
+    padding: 10pt;
+    font-size: 20pt;
+    margin-bottom: 20pt;
+    font-family: 'Archivo Black';
+    border: 1pt solid beige;
+    color:  beige;
+    text-transform: uppercase;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;  
+}
+
 .single-card {
     background: black;
     padding: 5pt;
@@ -134,4 +152,7 @@ tbody tr:nth-child(odd) {
     h1,h2,h3,h4 {
         color: inherit;
     }
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;  
 }
