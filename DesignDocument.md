@@ -54,7 +54,11 @@ In TRPGs players are usually able to level up their character, gain new skills a
 
 #### Push-your-luck
 
+Mechanics should encourage players to take risks and step out of their "comfort zone". Player should be able to spend their valuable resources to increase their chances of success.
+
 #### Mystery-solving
+
+There should be mechanics that help the player solve whatever mystery they're exploring.
 
 ### Scope of the game
 
