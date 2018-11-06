@@ -29,6 +29,8 @@
 
 ### Planning Your Session
 
+#### Set the scene
+
 #### Switching Realities
 
 #### Spawning Monsters
@@ -79,8 +81,6 @@ Other buildings
 | Baghead   | Tries to put a black bag on your head.                        | <i class="fas fa-burn"></i> 10 |
 | Pipeghoul | <i class="far fa-heart"></i> 10 Steel pipe through its skull. | <i class="fas fa-burn"></i> 4  |
 
-
 ***
 
 ## The Book of Obstacles
-
