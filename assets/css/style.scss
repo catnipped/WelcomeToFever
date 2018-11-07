@@ -6,7 +6,7 @@
 @import url('../webfontkit/stylesheet.css');
 
 body {
-    background: rgb(7, 10, 14);
+    background: black;
     color:floralwhite;
     font-family: 'Courier Prime Sans','Courier New', Courier, monospace;
     font-size: 12pt;
@@ -121,7 +121,7 @@ tbody {
     border-color: darkgoldenrod;
 }
 tbody tr:nth-child(odd) {
-    background: black;
+    background: rgb(7, 10, 14);;
     
 }
 

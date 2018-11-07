@@ -41,7 +41,7 @@ All you need to play is the following:
 - 1 20-sided die (**<i class="fas fa-dice-d20"></i> d20**) per player
 - Some tokens or counters
 
-## How to roleplay
+### How to roleplay
 
 ### Understanding Your Stranger Sheet
 
@@ -76,6 +76,14 @@ They can also carry one big item like a pistol or an axe. If they have a bag the
 The GM decides when there will be a skill test and decides on a number that represents chance of success. The players then roll a **d20** to match or beat that number.
 Stats give you points in the beginning of the session. Spend points before rolling the die to increase chance of success and consequences of both failure and success.
 The GM can award new points during the session (and take them away) from activities such as resting or having a drink.
+
+#### Overview
+
+1. The GM Decides which stat that will be tested and how difficult the test will be (Stamina 10, for example).
+2. If the player has points left to spend in that stat pool, they can spend points before rolling the die.
+3. The die is rolled and it is summed with spent points and any bonus the player might have a towards the test (such as aiming).
+4. If the sum is equal or higher than the difficulty of the test, they pass.
+5. All points spent by the player affects the outcome of the test positively or negatively depending on if the player passed the test.
 
 ### Violence
 
