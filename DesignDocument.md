@@ -72,7 +72,7 @@ In *Twin Peaks* we rarely see or even have characters reference the world outsid
 
 ### Inspiration & Resources
 
-Below are some popular works whos style *Fever* borrows from. Look to these works for ideas, tropes and aesthetics to use:
+Below are some popular works whose style *Fever* borrows from. Look to these works for ideas, tropes and aesthetics to use:
 
 - *Twin Peaks* TV 1990-2017 ![Twin Peaks Title](https://upload.wikimedia.org/wikipedia/en/e/ea/TwinPeaks_openingshotcredits.jpg "Twin Peaks Title")
 - *Silent Hill Series* Video Game 1999-2012 ![Silent Hill Cover](https://upload.wikimedia.org/wikipedia/en/9/96/Silent_Hill_video_game_cover.png "Silent Hill Cover")

@@ -6,4 +6,3 @@ layout: single_card
 ---
 
 # Trucker
-

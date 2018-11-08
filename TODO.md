@@ -5,14 +5,12 @@
 ## Project
 
 - [x] Add icon support (font awesome)
-- [ ] style jekyll theme
+- [ x style jekyll theme
 - [ ] .pdf export w/ images
 - [ ] fillable forms
 
-## Read me
+## Design Document
 
-- [x] Create a read me
-- [x] Outline read me
 - [ ] Meat n potatoes
 
 ## Player Rules
