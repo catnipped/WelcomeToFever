@@ -19,8 +19,6 @@
 
 ## The World in Fever
 
-### Welcome To Fever, CO — Town Creation
-
 ### The Two Realities
 
 ***
@@ -37,9 +35,9 @@
 
 #### Spawning Obstacles
 
-### Town Creation
+## Welcome To Fever, CO — Town Creation
 
-#### Places
+### Places
 
 Big buildings (several floors, requires investigation)
 
@@ -70,7 +68,7 @@ Other buildings
 - Chapel
 - Graveyard
 
-#### People
+### People
 
 ***
 
