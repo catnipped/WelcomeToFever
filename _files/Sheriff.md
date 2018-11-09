@@ -2,7 +2,7 @@
 type: Path
 name: Sheriff
 icon: 
-layout: single_card
+layout: single_file
 ---
 
 # Sheriff

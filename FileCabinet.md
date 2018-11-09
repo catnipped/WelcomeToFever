@@ -1,0 +1,4 @@
+---
+layout: files
+permalink: /FileCabinet/
+---

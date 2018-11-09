@@ -43,6 +43,10 @@ All you need to play is the following:
 
 ### How to roleplay
 
+### The File System
+
+Many of the things you encounter while playing Fever, including people, places, objects, monsters, abilities etc. come with a **File** with all the necessery information you need. All files can be found, in alphabetical order, [here]()
+
 ### Understanding Your Stranger Sheet
 
 > ### Strangers
@@ -107,7 +111,9 @@ Characters, both human and creatures, seldom die in Fever, as death is seen as a
 
 ## 2. Making of a Stranger — Character Creation
 
-Players are dealt cards from the different categories such as profession, traits or background. Then they choose one of each to make the stranger they want to visit Fever with.  Players can in conjunction with the GM also come up with custom cards within each category.
+A **Stranger** is a character visiting Fever played by you! Make your own personal stranger by following the instructions below.
+
+layers are dealt cards from the different categories such as profession, traits or background. Then they choose one of each to make the stranger they want to visit Fever with.  Players can in conjunction with the GM also come up with custom cards within each category.
 
 ### Choose a professional path
 

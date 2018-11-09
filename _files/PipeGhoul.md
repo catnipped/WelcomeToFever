@@ -2,7 +2,7 @@
 type: Monster
 name: Pipe Ghoul
 icon: 
-layout: single_card
+layout: single_file
 ---
 
 # PipeGhoul

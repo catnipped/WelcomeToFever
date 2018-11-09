@@ -2,7 +2,7 @@
 type: Monster
 name: Bird Monster
 icon: 
-layout: single_card
+layout: single_file
 ---
 
 # BirdMonster
