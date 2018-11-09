@@ -52,7 +52,7 @@
                     var input, filter, ul, li, a, i;
                     input = document.getElementById('myInput');
                     filter = input.value.toUpperCase();
-                    ul = document.getElementById("cards");
+                    ul = document.getElementById("files");
                     li = ul.getElementsByTagName('h2');
 
                     // Loop through all list items, and hide those who don't match the search query
@@ -67,12 +67,12 @@
                 }
             </script>
 
-            <input type="text" id="myInput" onkeyup="myFunction()" placeholder="FILTER CARDS...">
-            <div id="cards">
-                {% for card in site.cards %}
+            <input type="text" id="myInput" onkeyup="myFunction()" placeholder="FILTER...">
+            <div id="files">
+                {% for file in site.files %}
                 <h2>
-                    <a href="{{ card.url }}">
-                        {{ card.name }} - {{ card.type }}
+                    <a href="{{ file.url }}">
+                        {{ file.name }} - {{ file.type }}
                     </a>
                 </h2>
                 {% endfor %}

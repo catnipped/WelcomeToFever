@@ -1,5 +1,5 @@
 logo: /assets/img/logo.png
 theme: jekyll-theme-minimal
 collections: 
-  cards:
+  files:
     output: true

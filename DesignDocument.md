@@ -93,6 +93,8 @@ Below are some popular works whose style *Fever* borrows from. Look to these wor
 
 ## The Project Structure
 
-### Cards
+### The File System
+
+Many of the things you encounter while playing Fever, including people, places, objects, monsters, abilities etc. come with a **File** with all the necessery information you need. All files can be found, in alphabetical order, [here](FileCabinet).
 
 ### Tools, code & such

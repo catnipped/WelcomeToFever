@@ -45,7 +45,7 @@ All you need to play is the following:
 
 ### The File System
 
-Many of the things you encounter while playing Fever, including people, places, objects, monsters, abilities etc. come with a **File** with all the necessery information you need. All files can be found, in alphabetical order, [here]()
+Many of the things you encounter while playing Fever, including people, places, objects, monsters, abilities etc. come with a **File** with all the necessery information you need. All files can be found, in alphabetical order, in the [File Cabinet](FileCabinet).
 
 ### Understanding Your Stranger Sheet
 
@@ -58,7 +58,7 @@ Your character sheet contains all the numbers and things you need to play the ga
 
 There are four main Stats in the game:
 
-**<i class="fas fa-mask"></i> Psyche** - your ability to discriminate reality from the horrors of Fever. When your psyche is broken, you collapse from straining your mind too hard.
+**<i class="fas fa-mask"></i> Psyche** [<i class="fas fa-folder-open"></i>](_files/Psyche.md) - your ability to discriminate reality from the horrors of Fever. When your psyche is broken, you collapse from straining your mind too hard.
 
 **<i class="fas fa-bolt"></i> Stamina** - your ability to handle physical stress like running or fighting but also lack of sleep or food. If your stamina is broken, you pass out from straining your body too hard.
 
@@ -113,22 +113,23 @@ Characters, both human and creatures, seldom die in Fever, as death is seen as a
 
 A **Stranger** is a character visiting Fever played by you! Make your own personal stranger by following the instructions below.
 
-layers are dealt cards from the different categories such as profession, traits or background. Then they choose one of each to make the stranger they want to visit Fever with.  Players can in conjunction with the GM also come up with custom cards within each category.
+When making your stranger, make sure to look up each **File** that is referenced in the [File Cabinet](FileCabinet).
+Players can in conjunction with the GM also come up with custom files within each category.
 
 ### Choose a professional path
 
-When creating your stranger, there are 8 professional paths to choose from. Each provides a few Traits and Stats for your character, as well as being part of your characters background.
+First off, you need to choose your strangers' professional path. Each provides a few Traits and Stats for your character, as well as being part of your characters background.
 
-| Path                             | Stats                                                                                                                                                                    | Available Traits & Items                                                                                                                   |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Sheriff](Appendix.html#sheriff) | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | <i class="fas fa-capsules"></i> Gun, <i class="fas fa-capsules"></i> Badge, <i class="fas fa-cog"></i> Leader, Resort to Violence, Veteran |
-| Reporter                         | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | People Reader, Great with Words, Laptop                                                                                                    |
-| Playwright                       | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Great with Words, Think Big, Moody                                                                                                         |
-| Psychic                          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Psychic Ability, Moody, Holy Text, Misunderstood, Drugs                                                                                    |
-| Drop-out                         | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Practical Knowhow, Quitter, Misunderstood, Blend in                                                                                        |
-| Nurse                            | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Caretaker, First Aid Kit, Fix Wounds, Drugs                                                                                                |
-| Private Eye                      | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Private License, Moody, People Reader, Veteran                                                                                        |
-| Trucker                          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Blend in                                                                                                                              |
+| Path                                                             | Stats                                                                                                                                                                    | Available Traits & Items                                                                                                                   |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [<i class="fas fa-folder-open"></i> Sheriff](/_files/Sheriff.md) | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | <i class="fas fa-capsules"></i> Gun, <i class="fas fa-capsules"></i> Badge, <i class="fas fa-cog"></i> Leader, Resort to Violence, Veteran |
+| Reporter                                                         | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | People Reader, Great with Words, Laptop                                                                                                    |
+| Playwright                                                       | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Great with Words, Think Big, Moody                                                                                                         |
+| Psychic                                                          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Psychic Ability, Moody, Holy Text, Misunderstood, Drugs                                                                                    |
+| Drop-out                                                         | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Practical Knowhow, Quitter, Misunderstood, Blend in                                                                                        |
+| Nurse                                                            | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Caretaker, First Aid Kit, Fix Wounds, Drugs                                                                                                |
+| Private Eye                                                      | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Private License, Moody, People Reader, Veteran                                                                                        |
+| Trucker                                                          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Blend in                                                                                                                              |
 
 ### Choose a motive
 
