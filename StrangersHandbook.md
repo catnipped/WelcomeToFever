@@ -118,7 +118,7 @@ Players can in conjunction with the GM also come up with custom files within eac
 
 ### Choose a professional path
 
-First off, you need to choose your strangers' professional path. Each provides a few Traits and Stats for your character, as well as being part of your characters background.
+First off, you need to choose your strangers' professional path. Each provides a few Traits and Items for your character, as well as their starting stats.
 
 | Path                                                             | Stats                                                                                                                                                                    | Available Traits & Items                                                                                                                   |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
