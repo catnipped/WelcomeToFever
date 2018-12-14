@@ -18,7 +18,7 @@
 
 ***
 
-## 1. The Session — What you need to know before you play
+## 1. A Session — What you need to know before you play
 
 > ### What's a GM?
 >
