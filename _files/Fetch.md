@@ -1,6 +1,6 @@
 ---
 type: Monster
-name: Fetch
+name: Fetch (doppelgänger)
 icon: 
 layout: single_file
 ---
