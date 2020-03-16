@@ -26,7 +26,7 @@
 
 We're so happy you're here. Before you start playing, you should read through this book. If you're the Game Master, you should also read the [Game Master's Handbook](GameMastersHandbook), otherwise you should make a stranger.
 
-### The World of Fever
+### The World of Fever.
 
 Fever is a game, it is also a place and a state of mind. Fever is played over a series of scenes where a group of strangers encounter the hazy american town of Fever, Colorado. You need at least 2 players: 1 “Game Master” or GM for short, and at least one stranger. The game is played in two layers of reality. The first is called The Real, a somewhat oversaturated, dreamy reality with a focus on human interaction and investigation. Things in The Real doesn’t feel tangible, like everything was a symbol for something else and like every person is a paper thin character in a badly acted tv drama. There can be acts of violence but they are few and far between. The other reality, simply called The Fever, is a hellish nightmare where everything shows its true sinful face. Secrets are openly and blatantly displayed in a way that feel cryptic to us newcomers but obvious to its residents. Angst and Lies manifest into horrible creatures and obstacles. A troublesome thought in The Real can transform into a maddening labyrinth in The Fever. This reality is a prison only escapable by going through it.
 
@@ -40,9 +40,7 @@ All you need to play is the following:
 - 1 pencil per player
 - A bunch of six sided dice (**d6 <i class="fas fa-dice-d6"></i>**), preferably in two different colours
 
-### How to roleplay
-
-### The File System
+### The File System /  FEVER-D.R.E.A.M. DIY Rules Everything Around Me
 
 Many of the things you encounter while playing Fever, including people, places, objects, monsters, abilities etc. come with a **File** with all the necessery information you need. All files can be found, in alphabetical order, in the [File Cabinet](FileCabinet).
 
@@ -65,7 +63,7 @@ There are four main Stats in the game:
 
 **<i class="fas fa-balance-scale"></i> Sin** - your ability to commit questionable actions such as lying, theft, or even murder.
 
-#### Focus Dice 
+#### Focus Dice
 
 In the beginning of the game, each player is given a number of extra **<i class="fas fa-cubes"></i> Focus Dice**, equal to the sum of thier character's **<i class="fas fa-mask"></i> Psyche** and **<i class="fas fa-bolt"></i> Stamina**. These dice are a resource representing your character's ability to focus their energy on a task. The GM may award new points during the session *(or take them away!)* from activities such as resting or having a drink. There is no easy to way to gain new Focus Dice, so use them sparingly!
 
@@ -86,7 +84,7 @@ The GM decides when there will be a skill test and decides on a number that repr
 
 #### Overview
 
-1. The GM Decides which stat that will be tested and how difficult the test will be (Stamina 10, for example).
+1. The GM decides which stat that will be tested and how difficult the test will be (Stamina 5, for example).
 2. If the player has Focus Dice left, they can add any amount before rolling the dice.
 3. The dice are rolled and it is summed with and any bonus or penalty modifier the player might have a towards the test (such as aiming).
 4. If the sum is equal or higher than the difficulty of the test, they pass.
@@ -109,7 +107,7 @@ During violence characters are still able to talk to each other. Some items, lik
 
 All characters in the game has a **<i class="fas fa-fist-raised"></i> Resolve** stat, which is similar to Armor in other games. In the beginning of a violent encounter, each character gets a number points equal to their Resolve stat called **<i class="fas fa-heartbeat"></i> Resolve Points** (RP) which is more similar to Health. When attacking a creature, the action you make decides whether you can spend your Stamina or Psyche and whether your Sin affects the outcome. Then you perform a *skill test* where the target sum is to roll equal or higher than the affected character’s Resolve stat. If the roll is a success, that character loses some of its RP. If a character has 0 RP, it will stop being violent.
 
-In Fever, characters rarely die, as death is seen as a cheap way to get away with sins. Instead, the GM decides the fate the players should their characters reach 0 Staked Resolve. Usually the outcome is some sort of permanent damage that will haunt them for the rest of the game.
+In Fever, characters rarely die, as death is seen as a cheap way to get away with sins. Instead, the GM decides the fate the players should their characters reach 0RP. Usually the outcome is some sort of permanent wound that will haunt them for the rest of the game.
 
 ***
 
@@ -135,17 +133,20 @@ First off, you need to choose your strangers' professional path. Each provides a
 | Private Eye                                                      | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Private License, Moody, People Reader, Veteran                                                                                        |
 | Trucker                                                          | <i class="fas fa-mask fa-fw"></i> 3<br><i class="fas fa-bolt fa-fw"></i> 3<br><i class="fas fa-fist-raised fa-fw"></i> 3<br><i class="fas fa-balance-scale fa-fw"></i> 3 | Gun, Blend in                                                                                                                              |
 
-### Choose a motive
+### Motive (d10)
 
 Every stranger has a reason for them to come upon the town of Fever. Are they just passing through or are they there to investigate something? This is their **Motive**. Pick one of the motives below or make up your own in conjunction with the GM. 
 
-| Type                                                           | Motive                                             |
-| -------------------------------------------------------------- | -------------------------------------------------- |
-| Looking for answers                                            | - Investigation led here<br>- Asked to investigate |
-| Passing through                                                | - Hitch-hiker<br>- Tourist                         |
-| Work Seeker                                                    | - Promised new job<br>- Job moved here             |
-| Enlightenment  (<i class="fas fa-balance-scale fa-fw"></i> -2) | - Time to contemplate<br>- Religious Clarity       |
-| Clean Slate (<i class="fas fa-balance-scale fa-fw"></i> +2)    | - Too Much Baggage<br>- Criminal Past              |
+1. Looking for answers — My personal investigation led here.
+2. Looking for answers — I was asked to investigate by a third party.
+3. Passing through — I am a hitch-hiker looking for my next ride.
+4. Passing through — I am a tourist and I have lost my way.
+5. Work seeker — I look for work. ANY work.
+6. Work seeker — I am here about a specific job opening.
+7. Enlightenment (<i class="fas fa-balance-scale fa-fw"></i> Sin -2) — I need time to contemplate on my life.
+8. Enlightenment (<i class="fas fa-balance-scale fa-fw"></i> Sin -2) — I seek religious clarity.
+9. A clean slate (<i class="fas fa-balance-scale fa-fw"></i> Sin +2) — I want to rid myself of emotinal baggage.
+10. A clean slate (<i class="fas fa-balance-scale fa-fw"></i> Sin +2) — No one here knows of my criminal past.
 
 ### Choose traits
 
