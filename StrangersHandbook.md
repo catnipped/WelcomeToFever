@@ -143,10 +143,10 @@ Every stranger has a reason for them to come upon the town of Fever. Are they ju
 4. Passing through — I am a tourist and I have lost my way.
 5. Work seeker — I look for work. ANY work.
 6. Work seeker — I am here about a specific job opening.
-7. Enlightenment (<i class="fas fa-balance-scale fa-fw"></i> Sin -2) — I need time to contemplate on my life.
-8. Enlightenment (<i class="fas fa-balance-scale fa-fw"></i> Sin -2) — I seek religious clarity.
-9. A clean slate (<i class="fas fa-balance-scale fa-fw"></i> Sin +2) — I want to rid myself of emotinal baggage.
-10. A clean slate (<i class="fas fa-balance-scale fa-fw"></i> Sin +2) — No one here knows of my criminal past.
+7. Enlightenment — I need time to contemplate on my life. (-2<i class="fas fa-balance-scale fa-fw"></i>)
+8. Enlightenment — I seek religious clarity. (-2<i class="fas fa-balance-scale fa-fw"></i>)
+9. A clean slate — I want to rid myself of emotinal baggage. (+2<i class="fas fa-balance-scale fa-fw"></i>)
+10. A clean slate — No one here knows of my criminal past. (+2<i class="fas fa-balance-scale fa-fw"></i>)
 
 ### Choose traits
 
